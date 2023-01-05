@@ -1,0 +1,7 @@
+// The filtering process is used to remove noise from the data and to ensure that only high-quality ratings are included in the recommendation engine
+
+user_id,product_id,rating
+1,100,5
+1,101,4
+3,100,5
+3,103,5
