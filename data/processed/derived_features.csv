@@ -1,0 +1,6 @@
+ Derived features are additional pieces of information that can be used to improve the accuracy and effectiveness of the recommendation engine. They can be based on the ratings data itself, or they can be derived from external sources, such as user profiles or product metadata.
+
+user_id,mean_rating,rating_variance,rating_count
+1,3.7,0.49,3
+2,3.5,0.25,2
+3,4.3,0.49,3
