@@ -1,0 +1,11 @@
+\\ Normalization is a process of scaling the ratings to a common range, such as 0 to 1 or -1 to 1. This can be useful if you are using a collaborative filtering algorithm that is sensitive to the scale of the ratings.
+
+user_id,product_id,rating
+1,100,1.0
+1,101,0.8
+1,102,0.6
+2,100,0.8
+2,101,0.6
+3,100,1.0
+3,102,0.8
+3,103,1.0
