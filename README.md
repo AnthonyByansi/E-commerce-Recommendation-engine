@@ -24,4 +24,4 @@ To evaluate the performance of the recommendation engine, you can split the user
 If you wish to contribute to this project, please fork the repository and create a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the `MIT License`. See the LICENSE file for details.
