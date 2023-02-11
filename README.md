@@ -5,8 +5,8 @@ This project aims to build a recommendation engine for an e-commerce website usi
 ## Requirements
 To run this project, you will need:
 
-Python 3.6 or later
-A collection of user data containing past interactions with the e-commerce website (e.g., viewed products, purchased products, ratings and reviews)
+* Python 3.6 or later
+* A collection of user data containing past interactions with the e-commerce website (e.g., viewed products, purchased products, ratings and reviews)
 ## Setup
 Clone or download this repository to your local machine.
 Install the required Python libraries by running `pip install -r requirements.txt.`
