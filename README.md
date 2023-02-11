@@ -14,9 +14,9 @@ Download the user data and place it in the `data` directory.
 ## Usage
 To run the recommendation engine:
 
-Preprocess the user data by running `python preprocess.py`.
-Train the collaborative filtering model by running `python train.py`.
-Make recommendations for a given user by running `python recommend.py <user_id>.`
+* Preprocess the user data by running `python preprocess.py`.
+* Train the collaborative filtering model by running `python train.py`.
+* Make recommendations for a given user by running `python recommend.py <user_id>.`
 ## Evaluation
 To evaluate the performance of the recommendation engine, you can split the user data into a training set and a test set and compare the recommendations made on the test set with the actual ratings or interactions of the users.
 
