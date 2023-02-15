@@ -1,5 +1,5 @@
 # E-commerce-Recommendation-engine
-Collaborative E-commerce Recommendation Engine
+**Collaborative E-commerce Recommendation Engine**
 This project aims to build a recommendation engine for an e-commerce website using collaborative filtering. Collaborative filtering is a method of recommendation where past behaviors and preferences of users are used to predict what a user would like in the future.
 
 ## Requirements
