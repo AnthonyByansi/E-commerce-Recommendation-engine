@@ -9,7 +9,10 @@ To run this project, you will need:
 * A collection of user data containing past interactions with the e-commerce website (e.g., viewed products, purchased products, ratings and reviews)
 ## Setup
 Clone or download this repository to your local machine.
-Install the required Python libraries by running `pip install -r requirements.txt.`
+Install the required Python libraries by running 
+```
+pip install -r requirements.txt.
+```
 Download the user data and place it in the `data` directory.
 ## Usage
 To run the recommendation engine:
